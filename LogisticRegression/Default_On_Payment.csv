@@ -1,4 +1,4 @@
-Customer_ID,Status_Checking_Acc,Duration_in_Months,Credit_History,Purposre_Credit_Taken,Credit_Amount,Savings_Acc,Years_At_Present_Employment,Inst_Rt_Income,Marital_Status_Gender,Other_Debtors_Guarantors,Current_Address_Yrs,Property,Age,Other_Inst_Plans ,Housing,Num_CC,Job,Dependents,Telephone,Foreign_Worker,Default_On_Payment
+Customer_ID ,Status_Checking_Acc,Duration_in_Months,Credit_History,Purposre_Credit_Taken,Credit_Amount,Savings_Acc,Years_At_Present_Employment,Inst_Rt_Income,Marital_Status_Gender,Other_Debtors_Guarantors,Current_Address_Yrs,Property,Age,Other_Inst_Plans ,Housing,Num_CC,Job,Dependents,Telephone,Foreign_Worker,Default_On_Payment
 100015,A14,27,A32,A40,2570,A61,A73,3,A92,A101,3,A121,21,A143,A151,1,A173,1,A191,A201,1
 100031,A11,12,A34,A43,385,A61,A74,4,A92,A101,3,A121,58,A143,A152,4,A172,1,A192,A201,0
 100046,A12,13,A34,A43,882,A61,A72,4,A93,A103,4,A121,23,A143,A152,2,A173,1,A191,A201,0

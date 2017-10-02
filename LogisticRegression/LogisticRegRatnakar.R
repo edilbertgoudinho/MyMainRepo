@@ -1,4 +1,3 @@
-
 ##Step 1 - setwd
 setwd("D:/REVA/Finance/LogisticRegression")
 
